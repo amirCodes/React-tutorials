@@ -39,5 +39,6 @@ We'll create the build, which will have all the compiled, static files.
 Finally, we'll deploy to gh-pages.
 
 ### npm run deploy
-And we're done! The app is now available live at https://taniarascia.github.io/REPONAME.
+And we're done! The app is now available live at
+https://amircodes.github.io/React-tutorials/
 
